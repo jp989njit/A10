@@ -52,7 +52,7 @@
 		</aside>
 	</main>
 	<footer>
-		<p>&copy; Jenish Patel, March 28, 2023, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+		<p>&copy; Jenish Patel, April 11, 2023, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
 	</footer>
 </body>
 </html>
